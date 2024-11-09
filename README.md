@@ -21,7 +21,7 @@ I'm a passionate web developer with a background in Graphic Design, working sinc
 </div>
 <br/>
 
-### Follow My Journey
+## Follow My Journey
 <div style="display: inline-block;">
   <a href="https://www.instagram.com/rick43" target="_blank">
     <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
