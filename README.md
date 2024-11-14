@@ -38,4 +38,4 @@ I'm a passionate web developer with a background in Graphic Design, working sinc
 </div>
 <br/>
 
-Feel free to explore my projects!
+Feel free to explore my projects!!
